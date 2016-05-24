@@ -9,8 +9,8 @@ var config = {
   app_name: 'K-DICE',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
-  redirect_uri: 'https://untitled-dice.github.io',
+  recaptcha_sitekey: '6LfAyCATAAAAAB8c4mWBiSkSH3MyydMvt5e66JDF',  // <----- EDIT ME!
+  redirect_uri: 'https://Kiefner.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
