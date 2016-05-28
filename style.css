@@ -16,6 +16,7 @@ body {
     overflow-y: scroll;
     height: 215px;
     word-wrap: break-word;
+     background: #291;
 }
 
 .chat-list li {
