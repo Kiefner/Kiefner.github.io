@@ -1,10 +1,9 @@
 body {
     margin-top: 20px;
-    background: #113;
 }
 
 .navbar .navbar-brand {
-    color: #777777;
+    color: #111948;
 }
 .navbar .brand-name:hover {
     text-decoration: underline;
@@ -77,5 +76,5 @@ body {
 
 .progress-bar-grey {
     background-color: #767676;
-    background-image: none;
+    background-image: #149444;
 }
